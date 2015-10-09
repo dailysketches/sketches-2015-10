@@ -1,0 +1,12 @@
+<keyframes>
+    <key>
+        <flag>C4 ON</flag>
+        <time>00:00:01:333</time>
+        <value>0.496402860</value>
+    </key>
+    <key>
+        <flag>C4 OFF</flag>
+        <time>00:00:08:000</time>
+        <value>0.568345308</value>
+    </key>
+</keyframes>

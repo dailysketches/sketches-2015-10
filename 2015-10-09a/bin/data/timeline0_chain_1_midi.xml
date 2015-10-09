@@ -1,0 +1,152 @@
+<keyframes>
+    <key>
+        <flag>A2 ON</flag>
+        <time>00:00:00:010</time>
+        <value>0.000000000</value>
+    </key>
+    <key>
+        <flag>A2 ON</flag>
+        <time>00:00:00:333</time>
+        <value>0.000000000</value>
+    </key>
+    <key>
+        <flag>A2 ON</flag>
+        <time>00:00:00:666</time>
+        <value>0.000000000</value>
+    </key>
+    <key>
+        <flag>A2 ON</flag>
+        <time>00:00:01:000</time>
+        <value>0.000000000</value>
+    </key>
+    <key>
+        <flag>A2 ON</flag>
+        <time>00:00:01:333</time>
+        <value>0.745088160</value>
+    </key>
+    <key>
+        <flag>A2 ON</flag>
+        <time>00:00:01:666</time>
+        <value>0.000000000</value>
+    </key>
+    <key>
+        <flag>A2 ON</flag>
+        <time>00:00:02:000</time>
+        <value>0.000000000</value>
+    </key>
+    <key>
+        <flag>A2 ON</flag>
+        <time>00:00:02:333</time>
+        <value>0.000000000</value>
+    </key>
+    <key>
+        <flag>A2 ON</flag>
+        <time>00:00:02:666</time>
+        <value>0.012195110</value>
+    </key>
+    <key>
+        <flag>A2 ON</flag>
+        <time>00:00:03:000</time>
+        <value>0.000000000</value>
+    </key>
+    <key>
+        <flag>A2 ON</flag>
+        <time>00:00:03:333</time>
+        <value>0.012195110</value>
+    </key>
+    <key>
+        <flag>A2 ON</flag>
+        <time>00:00:03:666</time>
+        <value>0.000000000</value>
+    </key>
+    <key>
+        <flag>A2 ON</flag>
+        <time>00:00:04:000</time>
+        <value>0.757283270</value>
+    </key>
+    <key>
+        <flag>A2 ON</flag>
+        <time>00:00:04:333</time>
+        <value>0.000000000</value>
+    </key>
+    <key>
+        <flag>A2 ON</flag>
+        <time>00:00:04:666</time>
+        <value>0.012195110</value>
+    </key>
+    <key>
+        <flag>A2 ON</flag>
+        <time>00:00:05:000</time>
+        <value>0.000000000</value>
+    </key>
+    <key>
+        <flag>A2 ON</flag>
+        <time>00:00:05:333</time>
+        <value>0.134146333</value>
+    </key>
+    <key>
+        <flag>A2 ON</flag>
+        <time>00:00:05:666</time>
+        <value>0.000000000</value>
+    </key>
+    <key>
+        <flag>A2 ON</flag>
+        <time>00:00:06:000</time>
+        <value>0.000000000</value>
+    </key>
+    <key>
+        <flag>A2 ON</flag>
+        <time>00:00:06:333</time>
+        <value>0.073170722</value>
+    </key>
+    <key>
+        <flag>A2 ON</flag>
+        <time>00:00:06:666</time>
+        <value>0.000000000</value>
+    </key>
+    <key>
+        <flag>A2 ON</flag>
+        <time>00:00:06:999</time>
+        <value>0.000000000</value>
+    </key>
+    <key>
+        <flag>A2 ON</flag>
+        <time>00:00:07:333</time>
+        <value>0.402438998</value>
+    </key>
+    <key>
+        <flag>A2 ON</flag>
+        <time>00:00:07:666</time>
+        <value>0.000000000</value>
+    </key>
+    <key>
+        <flag>A2 ON</flag>
+        <time>00:00:08:000</time>
+        <value>0.402438998</value>
+    </key>
+    <key>
+        <flag>A2 ON</flag>
+        <time>00:00:08:333</time>
+        <value>0.000000000</value>
+    </key>
+    <key>
+        <flag>A2 ON</flag>
+        <time>00:00:08:666</time>
+        <value>0.000000000</value>
+    </key>
+    <key>
+        <flag>A2 ON</flag>
+        <time>00:00:09:000</time>
+        <value>0.000000000</value>
+    </key>
+    <key>
+        <flag>A2 ON</flag>
+        <time>00:00:09:333</time>
+        <value>0.000000000</value>
+    </key>
+    <key>
+        <flag>A2 ON</flag>
+        <time>00:00:09:666</time>
+        <value>0.000000000</value>
+    </key>
+</keyframes>
