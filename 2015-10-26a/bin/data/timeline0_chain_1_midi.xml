@@ -1,0 +1,102 @@
+<keyframes>
+    <key>
+        <flag>E5 ON</flag>
+        <time>00:00:00:001</time>
+        <value>0.824999988</value>
+    </key>
+    <key>
+        <flag>E5 OFF</flag>
+        <time>00:00:04:000</time>
+        <value>0.550000012</value>
+    </key>
+    <key>
+        <flag>C5 ON</flag>
+        <time>00:00:04:001</time>
+        <value>0.225000024</value>
+    </key>
+    <key>
+        <flag>C5 OFF</flag>
+        <time>00:00:08:000</time>
+        <value>1.000000000</value>
+    </key>
+    <key>
+        <flag>E5 ON</flag>
+        <time>00:00:08:001</time>
+        <value>0.824999988</value>
+    </key>
+    <key>
+        <flag>E5 OFF</flag>
+        <time>00:00:12:000</time>
+        <value>0.550000012</value>
+    </key>
+    <key>
+        <flag>C5 ON</flag>
+        <time>00:00:12:001</time>
+        <value>0.125000000</value>
+    </key>
+    <key>
+        <flag>C5 OFF</flag>
+        <time>00:00:16:000</time>
+        <value>0.199999988</value>
+    </key>
+    <key>
+        <flag>G5 ON</flag>
+        <time>00:00:16:001</time>
+        <value>0.125000000</value>
+    </key>
+    <key>
+        <flag>G5 OFF</flag>
+        <time>00:00:18:000</time>
+        <value>0.199999988</value>
+    </key>
+    <key>
+        <flag>E5 ON</flag>
+        <time>00:00:18:001</time>
+        <value>0.125000000</value>
+    </key>
+    <key>
+        <flag>E5 OFF</flag>
+        <time>00:00:20:000</time>
+        <value>0.199999988</value>
+    </key>
+    <key>
+        <flag>C5 ON</flag>
+        <time>00:00:20:001</time>
+        <value>0.125000000</value>
+    </key>
+    <key>
+        <flag>C5 OFF</flag>
+        <time>00:00:24:000</time>
+        <value>0.199999988</value>
+    </key>
+    <key>
+        <flag>G5 ON</flag>
+        <time>00:00:24:001</time>
+        <value>0.125000000</value>
+    </key>
+    <key>
+        <flag>G5 OFF</flag>
+        <time>00:00:26:000</time>
+        <value>0.199999988</value>
+    </key>
+    <key>
+        <flag>E5 ON</flag>
+        <time>00:00:26:001</time>
+        <value>0.125000000</value>
+    </key>
+    <key>
+        <flag>E5 OFF</flag>
+        <time>00:00:28:000</time>
+        <value>0.199999988</value>
+    </key>
+    <key>
+        <flag>C5 ON</flag>
+        <time>00:00:28:001</time>
+        <value>0.125000000</value>
+    </key>
+    <key>
+        <flag>C5 OFF</flag>
+        <time>00:00:32:000</time>
+        <value>0.199999988</value>
+    </key>
+</keyframes>
