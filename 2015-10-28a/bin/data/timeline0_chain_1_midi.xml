@@ -1,0 +1,22 @@
+<keyframes>
+    <key>
+        <flag>A4 ON</flag>
+        <time>00:00:01:001</time>
+        <value>0.574999988</value>
+    </key>
+    <key>
+        <flag>A4 OFF</flag>
+        <time>00:00:05:002</time>
+        <value>0.324999988</value>
+    </key>
+    <key>
+        <flag>A4 ON</flag>
+        <time>00:00:05:003</time>
+        <value>0.324999988</value>
+    </key>
+    <key>
+        <flag>A4 OFF</flag>
+        <time>00:00:08:895</time>
+        <value>0.725000024</value>
+    </key>
+</keyframes>

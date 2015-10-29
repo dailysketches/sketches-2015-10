@@ -1,0 +1,192 @@
+<keyframes>
+    <key>
+        <flag>A4 ON</flag>
+        <time>00:00:00:000</time>
+        <value>0.524999976</value>
+    </key>
+    <key>
+        <flag>A4 OFF</flag>
+        <time>00:00:00:250</time>
+        <value>0.274999976</value>
+    </key>
+    <key>
+        <flag>A4 ON</flag>
+        <time>00:00:00:500</time>
+        <value>0.324999988</value>
+    </key>
+    <key>
+        <flag>A4 OFF</flag>
+        <time>00:00:00:750</time>
+        <value>0.675000012</value>
+    </key>
+    <key>
+        <flag>A4 ON</flag>
+        <time>00:00:01:001</time>
+        <value>0.125000000</value>
+    </key>
+    <key>
+        <flag>A4 OFF</flag>
+        <time>00:00:01:250</time>
+        <value>0.000000000</value>
+    </key>
+    <key>
+        <flag>A4 ON</flag>
+        <time>00:00:01:500</time>
+        <value>0.074999988</value>
+    </key>
+    <key>
+        <flag>A4 OFF</flag>
+        <time>00:00:01:750</time>
+        <value>0.000000000</value>
+    </key>
+    <key>
+        <flag>A4 ON</flag>
+        <time>00:00:02:000</time>
+        <value>0.000000000</value>
+    </key>
+    <key>
+        <flag>A4 OFF</flag>
+        <time>00:00:02:250</time>
+        <value>0.225000024</value>
+    </key>
+    <key>
+        <flag>A4 ON</flag>
+        <time>00:00:02:501</time>
+        <value>0.000000000</value>
+    </key>
+    <key>
+        <flag>A4 OFF</flag>
+        <time>00:00:02:750</time>
+        <value>0.000000000</value>
+    </key>
+    <key>
+        <flag>A4 ON</flag>
+        <time>00:00:03:002</time>
+        <value>0.600000024</value>
+    </key>
+    <key>
+        <flag>A4 OFF</flag>
+        <time>00:00:03:252</time>
+        <value>0.350000024</value>
+    </key>
+    <key>
+        <flag>A4 ON</flag>
+        <time>00:00:03:502</time>
+        <value>0.399999976</value>
+    </key>
+    <key>
+        <flag>A4 OFF</flag>
+        <time>00:00:03:752</time>
+        <value>0.750000000</value>
+    </key>
+    <key>
+        <flag>A4 ON</flag>
+        <time>00:00:04:003</time>
+        <value>0.199999988</value>
+    </key>
+    <key>
+        <flag>A4 OFF</flag>
+        <time>00:00:04:252</time>
+        <value>0.074999988</value>
+    </key>
+    <key>
+        <flag>A4 ON</flag>
+        <time>00:00:04:500</time>
+        <value>0.425000012</value>
+    </key>
+    <key>
+        <flag>A4 OFF</flag>
+        <time>00:00:04:750</time>
+        <value>0.175000012</value>
+    </key>
+    <key>
+        <flag>A4 ON</flag>
+        <time>00:00:05:000</time>
+        <value>0.225000024</value>
+    </key>
+    <key>
+        <flag>A4 OFF</flag>
+        <time>00:00:05:250</time>
+        <value>0.574999988</value>
+    </key>
+    <key>
+        <flag>A4 ON</flag>
+        <time>00:00:05:501</time>
+        <value>0.024999976</value>
+    </key>
+    <key>
+        <flag>A4 OFF</flag>
+        <time>00:00:05:750</time>
+        <value>0.000000000</value>
+    </key>
+    <key>
+        <flag>A4 ON</flag>
+        <time>00:00:06:000</time>
+        <value>0.449999988</value>
+    </key>
+    <key>
+        <flag>A4 OFF</flag>
+        <time>00:00:06:250</time>
+        <value>0.199999988</value>
+    </key>
+    <key>
+        <flag>A4 ON</flag>
+        <time>00:00:06:500</time>
+        <value>0.250000000</value>
+    </key>
+    <key>
+        <flag>A4 OFF</flag>
+        <time>00:00:06:750</time>
+        <value>0.600000024</value>
+    </key>
+    <key>
+        <flag>A4 ON</flag>
+        <time>00:00:07:001</time>
+        <value>0.050000012</value>
+    </key>
+    <key>
+        <flag>A4 OFF</flag>
+        <time>00:00:07:250</time>
+        <value>0.000000000</value>
+    </key>
+    <key>
+        <flag>A4 ON</flag>
+        <time>00:00:07:500</time>
+        <value>0.000000000</value>
+    </key>
+    <key>
+        <flag>A4 OFF</flag>
+        <time>00:00:07:750</time>
+        <value>0.000000000</value>
+    </key>
+    <key>
+        <flag>A4 ON</flag>
+        <time>00:00:08:000</time>
+        <value>0.000000000</value>
+    </key>
+    <key>
+        <flag>A4 OFF</flag>
+        <time>00:00:08:250</time>
+        <value>0.149999976</value>
+    </key>
+    <key>
+        <flag>A4 ON</flag>
+        <time>00:00:08:501</time>
+        <value>0.000000000</value>
+    </key>
+    <key>
+        <flag>A4 OFF</flag>
+        <time>00:00:08:750</time>
+        <value>0.000000000</value>
+    </key>
+    <key>
+        <flag>A4 ON</flag>
+        <time>00:00:09:002</time>
+        <value>0.524999976</value>
+    </key>
+    <key>
+        <flag>A4 OFF</flag>
+        <time>00:00:09:252</time>
+        <value>0.274999976</value>
+    </key>
+</keyframes>
